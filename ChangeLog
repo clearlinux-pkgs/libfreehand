@@ -1,0 +1,1774 @@
+2017-09-16  David Tardon  <dtardon@redhat.com>  [4a396153d9c1528c3c91c22a82c9f077aba7b031]
+
+	ignore test-driver
+
+	Change-Id: I544a0f55210652fe40b9c59f94365361e46c025c
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [118208d2a248b7df576fb51c86848a61d05976e2]
+
+	add unit test for the internal stream
+
+	Change-Id: Iedf880acedbad9d42f4926c71360f21f02e34e3c
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [ec97e9a9fe40887b800eccf4191e70771e0882bf]
+
+	impl. seek-to-end in internal stream
+
+	Change-Id: Ideab55a0e52d537246960e0652ceb9cca0fff0a2
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [bf19817bbd91cbbb194dc1a72defedc68ededb8d]
+
+	reserve required size
+
+	Change-Id: I7f7d1cf7dd0a8d54446be445d06bb098267750ac
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [6ef5ce8b2a70647ca86f12ef4dc68efff9517b51]
+
+	cid#1219695 sanitize loop bound
+
+	Change-Id: Ie611c0413bdaec407f970a2be78a4ee3eeb75bce
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [1245e978c060059f94021e2ceae725518e1708f0]
+
+	reserve required size
+
+	Change-Id: I4e0a9bd703083d1d9b99e23a079a7d89986badaa
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [d5ad9bd8d30f475c6c2f0e1bf8709c3a1f9ff01c]
+
+	cid#1219691 sanitize loop bound
+
+	Change-Id: Ida9e320b3d8ac3d811548b7e5f485c2849b46a78
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [c80c6b5ac87c7ca5107f8a788245ffb78bda887f]
+
+	reserve required size
+
+	Change-Id: I56bd0c6af4d9c1784d153f704a990e14b95caf26
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [109141a84f4a8076e2a906569e95a53f4306afa5]
+
+	cid#1219687 sanitize loop bound
+
+	Change-Id: I6448038bdc54c7dd6a6e906d8d51a19c4a1a1ef3
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [4d287fb51e6f0f36283d22908767c7b9e985f09e]
+
+	reserve required size
+
+	Change-Id: Iedd92f37b7b80f8ac7b2b877b53fcb0d076cb963
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [cbf555d5fec350e261cc1698c77043a730b01efa]
+
+	cid#1219683 sanitize loop bound
+
+	Change-Id: Iada90b4cef5e35e465e385b45ef1e61dd1265c9d
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [a2f0d4c7ce6951c761e7debaa820bb6523a2f7f9]
+
+	reserve required size
+
+	Change-Id: I34f2a3bb02e046a22a9207492a06f2a56682d618
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [39264a242cabab28ac8aa873935f28993da13dd1]
+
+	cid#1219682 sanitize loop bound
+
+	Change-Id: Ifa4db921d7123379caf542e66e7c075de3f87ab3
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [7330ed37729eb29006363a4a9b440bbeb6e185b5]
+
+	add coverity to NEWS
+
+	Change-Id: Ie493416230b8aa3e4b76671838d1f70d4f9d6cfd
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [d02012b1c9ce8dfa22a80790cde2f5d2bdd66455]
+
+	cid#1417723 sanitize loop bound
+
+	Change-Id: Ic7596aa673a2cb7e702566b246437b42526173ac
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [cae8723485ba227951cd9961a2d5ecfbcae08acc]
+
+	drop unneeded check
+
+	Change-Id: I4e0e8b6e7d8ebdfea8cb94ace4ccf857d63a7c82
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [95b9fbab36299763d2af0efb3d5de694a7bc3690]
+
+	limit scope of var
+
+	Change-Id: I6e803134b361920a9ee772587db3929f4d8f9cd6
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [d1b2a6f6616b64b12ad832154b7fd677128ab4b4]
+
+	reserve required size
+
+	Change-Id: I18a929d8fe267a8ed8d0750cb348af4af1240b6c
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [99db282d016e6b642da6463d00447cbdbb6dbff0]
+
+	cid#1306208 sanitize loop bound
+
+	Change-Id: I33d0013a193f4d9a2f92332cde71ce2d00bd02a4
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [692a72d740642fb7fec7fc1af85d9b6a15c8f3be]
+
+	reserve required size
+
+	Change-Id: I8a94b655476fca16cad36edcb76fb22e5e726e10
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [8b63d7a1f93d8ce4951ac56d5854b9c622657ce4]
+
+	cid#1306206 sanitize loop bound
+
+	Change-Id: I10b8c3fdf81c526394eca87b6b23b0955827aef3
+
+2017-09-16  David Tardon  <dtardon@redhat.com>  [44b4814516b60546a1268dbd5e4c23f5b85be116]
+
+	cid#1219677 sanitize loop bound
+
+	Change-Id: Id1f3e84c21b31256e03da591d2f856818b084f1a
+
+2017-09-14  David Tardon  <dtardon@redhat.com>  [ef2f52e891fd4c004f3a4491defe68e179a1a892]
+
+	prepare for release
+
+	Change-Id: Ia5859777f6129d6695f9bbefe626ae0aa8e2ef8c
+
+2017-09-10  Miklos Vajna  <vmiklos@collabora.co.uk>  [2e2490c0a84de2b7b51f9dc32a720f5f5d1a95c0]
+
+	m4: MSVC defines __cplusplus as 199711L still
+
+	See e.g.
+	<https://stackoverflow.com/questions/37503029/cplusplus-is-equal-to-199711-in-msvc-does-it-support-c11>,
+	on MSVC we can't depend on the value of __cplusplus, since that one is a
+	too low value, even if everything else works fine.
+
+2017-09-08  David Tardon  <dtardon@redhat.com>  [4a20110a0b921019e2fd830b706e93fce47b32e2]
+
+	assume modern enough ICU is available
+
+	Change-Id: If55510fcb94e91fa91e10813928de8ca80dab4e6
+
+2017-09-01  Miklos Vajna  <vmiklos@collabora.co.uk>  [54c7b4f69455fe026e03c6ff077de8fdac1e956c]
+
+	Convert explicit for loops to range-based ones where possible
+
+	This is most useful in  libfreehand::FHCollector::_outputTextObject() to
+	avoid repeating ourselves.
+
+	Change-Id: I8e62bd02d2c058a45b449741759f73d2e051dd9a
+
+2017-08-31  Miklos Vajna  <vmiklos@collabora.co.uk>  [5f244a97085d0f95d65e2cc213efaf0e71ae691d]
+
+	Convert 0 to nullptr where it's used as a pointer value
+
+	To make the code easier to read, because this means the remaining zeros
+	all mean numbers.
+
+	Change-Id: Iaacefbd691007ec6ffe360b810df5997952cc87e
+
+2017-08-30  Miklos Vajna  <vmiklos@collabora.co.uk>  [7738f2ed122b9be8045a502f6ddea5fbd30380e5]
+
+	Mark overriding member functions as 'override'
+
+	This does not affect the generated code (API or ABI), but:
+
+	1) Makes sure that in case the signature of one of these functions would
+	change by accident, the build breaks as the function no longer overrides
+	a base function.
+
+	2) Makes the code readable by explicitly marking all overriding
+	functions as 'override', where previously the reader had to read the
+	interface of the base class(es) as well to find out if the function is
+	virtual or not.
+
+	3) Since 'override' implies 'virtual', remove the 'virtual' keyword
+	where 'override' is present.
+
+	Change-Id: Idc42f6babb9070436dd7b08f2332bd05e2c2d49d
+
+2017-08-15  David Tardon  <dtardon@redhat.com>  [d01430b2e8b768283acf0e18325a81b73e3d946a]
+
+	ofz#2716 fix signed integer overflow
+
+	Change-Id: Iad5123c7ae487a252cdf066bc237cbcc8444017c
+
+2017-07-19  osnola  <alonso@loria.fr>  [2f2f99bbc52402fd0a913d429349798fac598f88]
+
+	v3: try to retrieve the text effect, v4: try to retrieve more complex textbox
+
+	Note:
+	The v4’s textboxes are some tables which can contain many rows and many
+	columns.
+
+	Currently, when a textbox contains several cells, I set its size to the
+	table’s dimension. If we can chain textbox, we can do better (i.e. I
+	begin to code it, look for HAVE_CHAINED_TEXTBOX in FHCollector.cpp)
+
+	Change-Id: I886911f4bc5cc3a6aa878c0be96699030862d3f8
+
+2017-07-19  osnola  <alonso@loria.fr>  [cd0a7a0278cd6daf5e3d005d8e7a313daa175be2]
+
+	Try to retrieve more line/fill styles + correct textbox's rotation center.
+
+	Change-Id: I7fccc17b00e5e0d82dcca572ac600fb5bbdb6744
+
+2017-07-19  osnola  <alonso@loria.fr>  [c419a9c2d9b216c500e961445ad785955b6eeae9]
+
+	Read BlendObject zone + try to retrieve the paragraph attributes...
+
+	Change-Id: I4e9fad2a51ef568d607414d5edfb36d1d2d7a3dc
+
+2017-07-13  osnola  <alonso@loria.fr>  [fd69377a60eba6865e751ffbfaddc0666a1cb602]
+
+	try to improve the parsing of v3 files
+
+	Change-Id: I59011935ce87d14309ff0265218b3f383f857ebd
+
+2017-05-16  David Tardon  <dtardon@redhat.com>  [1e1bbbae0a929b0b421ce1f7793faf31d4f5eca8]
+
+	drop :: prefix
+
+	Change-Id: I30db7cc58a2afc7a1747ea1f78f7543a7b36464a
+
+2017-04-25  David Tardon  <dtardon@redhat.com>  [8ef7734fe7d5273a50d3d92a202c4b4637585e5c]
+
+	replace a dumb pointer by a smart one
+
+	Change-Id: Ia8f3de406e82b53bb4c54f4073151ee4faa3ea99
+
+2017-04-15  David Tardon  <dtardon@redhat.com>  [0b02e72d7f0f7bfa963c565ad1c021fc97ee8172]
+
+	print debug msgs to stderr
+
+	Change-Id: I1378da18260cfd4bd51d54351dda37474425c9a2
+
+2017-04-15  David Tardon  <dtardon@redhat.com>  [01bd0616259f3989c50b5433411a2284b6e66796]
+
+	drop verbose debug
+
+	Change-Id: I5e4f1f1301e9490fa0b479c92a88f5fd975b23b2
+
+2017-04-15  David Tardon  <dtardon@redhat.com>  [11d476db0762df0e7b5dbec5cc7dd802082d9bb1]
+
+	replace manual def. of int types by boost
+
+	Change-Id: I93cd3f5b026edf8621465723481b6c9d19308a6c
+
+2017-04-15  David Tardon  <dtardon@redhat.com>  [2fd5bccdaa3745ab6372a03a30c3a44d5587545d]
+
+	boost::scoped_ptr -> std::unique_ptr
+
+	Change-Id: Ie3a41917ecd84a88227dfcb9b74e22583d153b76
+
+2017-04-15  David Tardon  <dtardon@redhat.com>  [1799bf4228b08a50ecf740a0906c20bcbe9cf9c3]
+
+	switch to C++11
+
+	Change-Id: I049fc4bf37667192b0ae997ad150cde3632d8df3
+
+2017-04-15  David Tardon  <dtardon@redhat.com>  [b8407e4bd575abc40d0751e14387362b227a2cd0]
+
+	only ignore generated files in m4
+
+	Change-Id: Ibb9e5bf67157a0a5cb3989ed4e0e36027f702fb0
+
+2017-04-15  David Tardon  <dtardon@redhat.com>  [0504707af21e56971600204d652a12f7f13d1a90]
+
+	workaround difference between astyle versions
+
+	Change-Id: Ic0ad3ae0ebb6c51e0fac938ab776061d165b73e4
+
+2017-03-31  David Tardon  <dtardon@redhat.com>  [3963cc0c0d2933f97a1b950e14ffad435c40de48]
+
+	astyle
+
+	Change-Id: Ibe65484aefd102345fca16e4249ecc299e9b5a31
+
+2017-03-31  David Tardon  <dtardon@redhat.com>  [6ca823ad65337c5df657c671ed31fbfe9cf43e79]
+
+	add fuzzing driver for oss-fuzz
+
+	Change-Id: I1476b646c05dbc7128353ae6ae6a999ce4c89627
+
+2017-03-12  dennisroczek  <dennisroczek@libreoffice.org>  [c5b2db4b8b14b04204d8feeaf5d38b80afa401e7]
+
+	fix typo: usefull --> useful
+
+	Change-Id: I6df41ae6413835d226988a965f650341ad1d78a3
+	Reviewed-on: https://gerrit.libreoffice.org/35000
+	Reviewed-by: Adolfo Jayme Barrientos <fitojb@ubuntu.com>
+	Tested-by: Adolfo Jayme Barrientos <fitojb@ubuntu.com>
+
+2016-06-14  David Tardon  <dtardon@redhat.com>  [4442e52964a05b22ab38360ef6c55288b822280a]
+
+	move everything into namespace
+
+	Change-Id: Ief8e5ae788a5b9671ce0e364f059299d885d502f
+
+2016-06-14  David Tardon  <dtardon@redhat.com>  [a83ceab5192f819df36db1e4a1ae1cb897131939]
+
+	no gain in combining static with anon. namespace
+
+	Change-Id: I8c10bfd84eda4e846bacff12e4abf903364afcc0
+
+2016-06-14  David Tardon  <dtardon@redhat.com>  [f9a6587ca19ec3239554426e570d266f0622bcbe]
+
+	painter is allowed to be NULL
+
+	Change-Id: Ib69938f4fbf37e325fc9993dc429841a60d7ecf1
+
+2015-12-27  David Tardon  <dtardon@redhat.com>  [fb7ab86a46d584b7995b96753395a6156a9fddb9]
+
+	simplify dist. and inst. of headers
+
+	Change-Id: Ibe3f2f923424c385f840ad186b113b2eb54bb4fc
+
+2015-12-27  David Tardon  <dtardon@redhat.com>  [81cc3a8670befdaa1bee74e03eee02246d2834e1]
+
+	make --help output more help2man-friendly
+
+	Change-Id: I02018a91a2e8fb46edf51f716cebfbe6d07ffe76
+
+2015-12-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [22b405018fa4d883babb6e510b8dd58ddb55650d]
+
+	Better way to get the gperf dependencies
+
+	Change-Id: Ic94d9277949ec84c5f1c0796842507f7b03e6c0f
+
+2015-12-19  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a703628e3c813c85b3b55fce49d666e5f1b25b1f]
+
+	Fix build with recent clang that chokes on "register" keyword
+
+	Change-Id: I03f130e5f4f57418c07c43f759bb2c9e8da257f6
+
+2015-10-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1c36155d022599996128ca4d2c77d6e6f4f35d45]
+
+	m_visitedObjects should be initialized in the member initialization list
+
+	Change-Id: I09b5d94e24562b4c1c42e1a51d8748c778201fca
+
+2015-08-26  David Tardon  <dtardon@redhat.com>  [4f98433f99294a54f637a27f9bc2818a3cf14e78]
+
+	avoid memory leak if exception is thrown
+
+	Change-Id: If8e42e39cb1022dff8ac61740f3808779fa7fa07
+
+2015-08-26  David Tardon  <dtardon@redhat.com>  [29c0c75bf272d41647338b6368d786d62fc12c62]
+
+	afl: avoid infinite recursion in page objects
+
+	Change-Id: I6bf5b7f5df620eb3c99c0af836aa94ae5f51ca21
+
+2015-08-26  David Tardon  <dtardon@redhat.com>  [4840d1374be129f460f1674ed2c7181096304c33]
+
+	afl: avoid unterminated recursion in broken docs
+
+	... if a style is a parent of itself.
+
+	Change-Id: I624d4e6fb0a698d75272f4e3a399503291c81144
+
+2015-08-05  David Tardon  <dtardon@redhat.com>  [aac3716fde96bb4218c897837b19abde382c13fa]
+
+	afl: do not insert last segment if it's shortened
+
+	... as might happen in broken files. Later code expects that all
+	segments have 3 components.
+
+	Change-Id: I7463162a596743cac6091be927c1eec13d66d011
+
+2015-08-05  David Tardon  <dtardon@redhat.com>  [104ee5560a5ab0b5597630179f5ed8714da001df]
+
+	add make astyle target
+
+	Change-Id: I4db491dc046ffae8d9185f1d24e5c14d7f191deb
+
+2015-06-11  David Tardon  <dtardon@redhat.com>  [d9b10697f3984e51d3870e049b99488d94ee735e]
+
+	WaE: 'FHTransform' defined as a struct here but previously declared as a class
+
+	Change-Id: I3a2426b5c7cef3b0913714b90ecd99f75860f276
+
+2015-06-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ef6f6a4e9ef987859c31b96ae824014215dc5722]
+
+	NEWS
+
+	Change-Id: Ie356430187a403850f87ef4ba5fa6c99b89dbe2e
+
+2015-05-29  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d12a873411c4dd79dda9e1abe5bea5308ef458a3]
+
+	Apply fake transforms in the right sequence
+
+	Change-Id: I89d19a633e433d80fd940d9ffd948a778457bb76
+
+2015-05-22  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e5b9c8c030a6fd7001cce07abf089c189745012e]
+
+	Specify the with and height
+
+	Change-Id: I01ca31f7fea20acdcbf6927d659290970db02b80
+
+2015-05-22  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1385b3a27d951d7be72c0f859f026780d25e74c2]
+
+	Just a version increase so that I don't forget
+
+	Change-Id: Ieb9e9aa95a3b476fcbe7097fd16dcb364bf34eee
+
+2015-05-22  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [2d87343d8e70a38ca07a39ea0ad4c41006792291]
+
+	Weffc++
+
+	Change-Id: Ie88c600871dbb8bc2b728e1412204a240e1b06e7
+
+2015-05-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3f77d59d6debb7b7c23ec5e39bcf21f9c7b11278]
+
+	More debugging of embedded objects
+
+	Change-Id: I04e8ff201e70ff16e9adeda0d24ebefd29612b29
+
+2015-05-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [886904f656d3bf592dc959a654341c5f87dff356]
+
+	RVNGBinaryData is a valid type for RVNGPropertyList value
+
+	Change-Id: I5223b3b9e9fdb72802224275f2e25dffed31ac8b
+
+2015-05-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [98d7e306332980adef1e85cb8bb36a8a0d3f4331]
+
+	Emulate ContourFill and NewContourFill by radial gradient
+
+	Change-Id: Ia0d82323ba8fbf7c7b2d62a9b294443f741fc15a
+
+2015-05-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b880cb857dbe8b9055b12c2a04553672b65f909c]
+
+	Better theory about ClipGroup
+
+	Change-Id: I6e8fb82a304a71ac94f58a582c43388cd843517c
+
+2015-05-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [80b2741b20c5bd80708accf7bb83a4d1ab52fba8]
+
+	PatternFill
+
+	Change-Id: I334186ef500ebc24620afe3868a120dfe05d6940
+
+2015-05-19  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [aee9a111636a64c2eb792e55ef0260473ff8962e]
+
+	Some more fixes for content fills
+
+	Change-Id: I603eeee0c1d6bb0e56d12e9df210250e1e1eaf95
+
+2015-05-19  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a4fe7c168396cafed40cb47093b6142f25cd501a]
+
+	Detect common file-types so that we don't output bogus mimetype always
+
+	Change-Id: Icf8a814813ad8b4bae9c12bde2593db8a26e877f
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [96d6908160fadeb26c32b2ab737d4ed745372d46]
+
+	Use the FHBoundingBox struct
+
+	Change-Id: If7713f849985758166dfb445a7e835dacee8bc83
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d4bdcb2bcdc4774e1b40363134652c74f4c884f5]
+
+	Initialize the bounding box properly
+
+	Change-Id: I7b5271866d9d4afe75284401be23b59db8f4c58b
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [9ae62324f4c48caacfb852881672408d25f4b15a]
+
+	Some fixes around TileFill
+
+	Change-Id: I8d0c0aa7f50b5749e9663cb231c6483ebb7b1521
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5a6bcb2c4de7d151b89d22a86e9836894882118f]
+
+	Putting some belts and braces around the svg generation
+
+	Change-Id: I1d8ae5ab101759da830472802f0885bc45d3e5b5
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c49d059e90d1701a1eb981d3109bc403fd9dc918]
+
+	Another theory
+
+	Change-Id: I5c6499fbc21b29154dff0a2029941e90ff984478
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [74833537035d4f21a910b13cf01022ecec616fed]
+
+	Read the raw number
+
+	Change-Id: Icce4bf1b1ab4bd44c5c45de0fca9a91a1f015a41
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [bcbb7e257a9074908f4d8b993ec276df54350e31]
+
+	Don't bother generating SVG from group id == 0
+
+	Change-Id: I7b1503ca8dd19cb82ce756f023353b3c9b73f4a5
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b57584f9b546b677a72fa94b506b096d7ec2c195]
+
+	LibreOffice fills only closed paths
+
+	Change-Id: Ic00cb589c28d89475e40f258ed4ade162c3cac6d
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c63103583cfa82e17573eb9229571137ad523e32]
+
+	Some TileFill progress
+
+	Change-Id: I776820b0ca572dd512939460069d84deb3f256f1
+
+2015-05-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [6aaae771639184f23f175cf886844564f59cdda1]
+
+	RadialFillX
+
+	Change-Id: Ifc2b29522feba6afdd3580180426d91a7d25b98d
+
+2015-05-17  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b78fa71bb976dcc5521d3f92d69663032b1b4139]
+
+	Output SymbolInstance
+
+	Change-Id: I57a9d6834ade9cd6603a8bf1fd81adf7ef6d9230
+
+2015-05-17  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1da9f329d0ed20390b0ec854596912024ca7b509]
+
+	Parsing and collecting SymbolClass + SymbolInstance
+
+	Change-Id: I351d4f858a17be67e12fd46a7a42edb8936b03a4
+
+2015-05-17  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3d633e159ca0f9bd5fd87eabdd87721f29a6911f]
+
+	So the first theory about group transforms was the right one indeed
+
+	Change-Id: If90d8c03c7364f55a0ad9107a074b18cdcbd86de
+
+2015-05-17  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1470d02436881ab88532f59dc26959699675e148]
+
+	Some half-baked code for TileFill (not working)
+
+	Change-Id: Icb94a0c4e512a2dfcd8304834d966fb96b113455
+
+2015-05-15  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [f22885ca843d860a48fee61135bca7031c2f0976]
+
+	Parse FWGlowFilter and FWShadowFilter and output shadows existing in ODG
+
+	Change-Id: Ie8617f18c94594a97cd54eda732d51fe51870428
+
+2015-05-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a6bf166ea59b72cc7fb2318f75ec04f747a1f513]
+
+	Slightly different logic of composite path to get the even/odd fills right
+
+	Change-Id: I99e9df7241b7e300754d19f9d8f194a69b073dca
+
+2015-05-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [794eb2d3f4ee92e354527218bbbba0023b9c4d94]
+
+	Some little fix
+
+	Change-Id: I25f9e6b4cc13de37780f24df042a6694c7b30881
+
+2015-05-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5a76004ae6c50e883d4192662f28f11d758ba193]
+
+	Some initial handling of OpacityFilter
+
+	Change-Id: I32de4137444291f485e61e6cede3aebd09569465
+
+2015-05-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [344a8148c2c625cb0c085c3932109f015c267896]
+
+	Some more work towards the filters in fh11
+
+	Change-Id: Ic36e475d27e087134786ffc61c2e342dfac3cd85
+
+2015-05-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b86e55e6d3b5cfb0d1dbd10ace30bc199d52be4f]
+
+	FilterAttributeHolder + OpacityFilter
+
+	Change-Id: I1a38cb9ddaf99ae3df89aec50d8aed39b285e291
+
+2015-05-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [62c651f4f881e5c4f23d88d30ae27d648e75ceab]
+
+	Not sure the NewBlend works like this, but try to output it
+
+	Change-Id: I6b16f43535252882a4ec82786efa5e935f8a7dad
+
+2015-05-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b89eef6b003fef08424ca50a72dbe11ee9bba7ed]
+
+	Some steps to content fill in FH11
+
+	Change-Id: I2fe2ff6521e0dcd18e948580cd6d768eb31c59b8
+
+2015-05-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b59c88ced2743f1e733fc93fdf9065019a98fcf1]
+
+	Some little meaningless changes
+
+	Change-Id: I591ad1b3b393b77e1735f0ddab3067291fd62b0f
+
+2015-05-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e1e937ac45b4d5fd3c73c7c2f6be1479ccd47d3d]
+
+	Fold the defaults into the _append*
+
+	Change-Id: Iaae0178bda60ddbac775406323ae5e2a3b24eaff
+
+2015-05-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d178953b46d2b7bd7d68412d240e09f776cf32bd]
+
+	One off error
+
+	Change-Id: I1c3a9d78203f4a0e100182500c6d64e7f331eb08
+
+2015-05-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [62111139de64f88738c14a21760fbcda8ce55d35]
+
+	If it compiles, even better
+
+	Change-Id: I266b9fbac41388a7f1a56368fc8ea3bfbc6631cf
+
+2015-05-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [77836caaeb878291fc09130b505ca9f3ef1c55b8]
+
+	Leave door open to Group and ClipGroup not being the same thing
+
+	Change-Id: I2d78ac99103c85592f9e6e5801da7882aa65d76e
+
+2015-05-12  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5c04fcd6bcc655b87b197dc64e594b5e8eca0589]
+
+	Don't override by mistake styles
+
+	Change-Id: I271a516e621867593e5a935f680c87b3da542698
+
+2015-05-12  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [436ea950fe32359e031bff33d3b660c9b6a14cab]
+
+	Some simplifications
+
+	Change-Id: Ifd0a3675ed5f17c5740b7daa49a8ba74bf21e146
+
+2015-05-12  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5a4eb90f80bef59aeee02ea199e25f827c9cd034]
+
+	ClipGroup
+
+	Change-Id: Ic105b857c7cf9b0088b6afd38e884aa09b7724fe
+
+2015-05-12  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [4cd5f2208c39afc0f1d1fc455c0c0c893bb7e044]
+
+	PatternLine, ConeFill, NewRadialFill
+
+	Change-Id: I46b7098656ff374bf73809c49432d331c58ab7ac
+
+2015-05-12  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [87f9095ee301b66dccd0afdd7371ec3d878eb54f]
+
+	RadialFill
+
+	Change-Id: I1a0224d438c1f5a8d9c239501c95a718a76d24f8
+
+2015-05-12  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e7dcef92607a1e3f60b4e3fde36459fc0426d2e8]
+
+	Some fixes to get the fills and strokes better
+
+	Change-Id: I29fc359f270bbeeb130723cdd30bb9fb9e0e0226
+
+2015-05-12  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [da1c9ff1321381b5d065d88dbd9ee253688ab130]
+
+	Some more debugging code
+
+	Change-Id: I5322f42dfa09a94b13dfd9035d55389e95429b95
+
+2015-05-12  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d99cf7fa3f69bee3bdbde9f924478f3d50967c28]
+
+	Try to emulate some content fills
+
+	Change-Id: I05c8ebd64779805d0c7bcd7c5358d3cd1945431b
+
+2015-05-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [6f6f3dc191fd03e128edc6cf4c9acfa8ea08d269]
+
+	Some more infrastructure stuff
+
+	Change-Id: Ia9af49869bf7c500b9b82ce39bd4c72d789b3865
+
+2015-05-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1942479cdb08f8de0d3a8c32bcd07cffdb349cf4]
+
+	Add fake transform in case we need to emulate stuff using svg fill of a shape
+
+	Change-Id: I9521679ec42899e28c185af990d410c8eaf4c460
+
+2015-05-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [39681ac38d160d410e14c318356f8223365ca3e1]
+
+	A little fix
+
+	Change-Id: I9d5967e7060d71d7def29a3f59db1e8be0b80d59
+
+2015-05-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [8823cc3ba7687858efc03278352f38ee5a9cb3e2]
+
+	Fix the bounding box a bit + add code to visually debug it
+
+	Change-Id: I26f7620b984989cc56186cf2b4596026216d4aad
+
+2015-05-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [2e38159faf14fffea51f7c001898030846d2f21b]
+
+	Utility functions to get a path's bounding box
+
+	Change-Id: I397ad4cdb44990d05b6ae829c736e185ee976fcf
+
+2015-05-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [55021df6435bb21e4ae5b81c68e6d7866fa6e15c]
+
+	Silencing the callcatcher a bit
+
+	Change-Id: I5302940914b3e1481f2518eaf13080453386c8a1
+
+2015-05-08  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [737305adf18182ad16670cc126bc11780379870d]
+
+	Unused variable
+
+	Change-Id: Ib09b29a5db8be0efa942033063632db921b6a6e0
+
+2015-05-08  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1714f9bb239e5d5ad97e326360a35ca72a3cfbaa]
+
+	Fix output of rounded rectangle
+
+	Change-Id: I1595c9442feca470ef71d7d9d734dd662accfadc
+
+2015-05-08  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3ccfcb4b78176f0922ee7b738e55dd987f6c2051]
+
+	For the ProcessColor and the TintColor, use the cached RGB if present
+
+	It seems that the RGB value corresponds better to what one can see
+	in Freehand then the result of our color-managed conversion of CMYK.
+
+	Change-Id: I9a28534f0be21b9f62f4024b00478b21e79a0afc
+
+2015-05-07  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1afa722c034d3ae9f3681d168857bff7daab6949]
+
+	Emulate the darkening/ lightening lenses by semi-transparent black/white fills
+
+	Change-Id: Ie5303c5a638238ade16bb295b952002cedffe9f3
+
+2015-05-07  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [024aabc1997693ef442c874ccc8aaa600d191489]
+
+	Some lens fill support (mainly transparency)
+
+	Change-Id: I45192a5fb7533985ad1cfc76cf02e85eef79d6b4
+
+2015-05-06  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c3b0d3b53126042bbf2d679ce4c0567a0a09f67b]
+
+	A way to dump the ImageImport result for the debugging purposes
+
+	Change-Id: Ia90c911f7f5226a59be1aef0f21f793e0e862537
+
+2015-05-06  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [90847d17c0a3861ec304e7221340b23b9f583a47]
+
+	This one looks like the assumption in Faucets.FH3
+
+	Change-Id: Id7cc1e90afbfea380282a81d9f8c53852efcf12d
+
+2015-05-06  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [482d3364539c8235fde77ab10a9ce40e605453f1]
+
+	Trying to get the tint colors right
+
+	Change-Id: Ic40bab3b3433689cc51c29e5a930ad93d9db5996
+
+2015-05-05  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b3a3f94ae6b67c7b9fca96c9b42a6866d3c56f53]
+
+	Add lcms2 dependency + read process color as cmyk and convert it
+
+	Change-Id: I043bb59b595614a9a109b9e22806477643b5b589
+
+2015-05-04  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [13415f88b4a20ad014a5eb61a8563f365df2dc3b]
+
+	Trying to get the gradient angle right
+
+	Change-Id: Iff5b05b3d7b82f505cadfd76ef3675fc5afe0f15
+
+2015-05-04  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [f42f65fccb2cba493512a759157a0728fff62492]
+
+	BIPU TaperedFillX
+
+	Change-Id: I972673d3471ebc9b8fe8ed2c84b408f3897cc59b
+
+2015-05-04  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [25165714373d886aa1813cd910bf934a304ee790]
+
+	BIPU LinearFill
+
+	Change-Id: I0d4b17e95dd637795de5c71fa45a2bf6b2347d7c
+
+2015-05-04  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ab55546b553bbd94578978233947369b258b0cec]
+
+	SwfImport
+
+	Change-Id: I33fd3f73dcb59b65fcd0eb6d47a8b84596c9c42f
+
+2015-05-04  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [059860c43cd04d77046b8cb0d9c4c6299bd8228d]
+
+	Fix some more the ImageImport reading
+
+	Change-Id: I168844a67a40ce6cb9b18f50a5af1e026880fde7
+
+2015-05-04  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [cdb9a4e481ed3588d59682cd0bb2ca191273d76d]
+
+	New token "Import"
+
+	Change-Id: Iccea4713ede9ec8f8f34a323964e13cc41c50727
+
+2015-05-04  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [0732cf361b3340392fdf89464babe117e40966e9]
+
+	Some more images (still unfinished)
+
+	Change-Id: I6bca9e1635bbef75e74800550af844edef9574af
+
+2015-05-04  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [f90a74e2adf1e0cdb744d84eb7741f4bbf91f9ac]
+
+	Parsing a bit more towards embedded images
+
+	Change-Id: Id8929eb9d153ed0d11ad93b8d389a111696d0f76
+
+2015-05-03  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [fac42c0473e041a7f02deeebc6f31f73b6249dec]
+
+	Extract this one so that we don't forget to output elements
+
+	Change-Id: Ibc6528f37c77f44fed277d4d356664285a1892e9
+
+2015-05-03  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [035466002f31f3883c2a00cff19ff41a175ceaf8]
+
+	Basic fills and strokes for FH11
+
+	Change-Id: Iaec336950844ec4a1a42e2465aefdb5af01be8da
+
+2015-05-03  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [9b1b5c5dbafad8d2cf45548f10e8a266ed9c65e4]
+
+	There is at least 1 paragraph property in DisplayText, even if end offset is 0
+
+	Change-Id: Id10700d99177e3c759777b9f44968fb089159420
+
+2015-05-02  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [cccc2e1e2e941dbeff25f9dcf0d4fc1f2ea00710]
+
+	Some improvements in skipping TextEffs
+
+	Change-Id: Ia61762cfcf2a92eaebda0015d3b5419d3d4428fd
+
+2015-05-02  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [34ba4306ddc0a2019a315834de070f03f6a12cb1]
+
+	Some more text improvement for FH3
+
+	Change-Id: I2e6aabe4ccad28aef176360f5062727b8ff775e8
+
+2015-05-02  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a08adbf8339eb7801353b01b10c59f14ac70693e]
+
+	Some more text properties for FH3
+
+	Change-Id: I013217158435444bbdd1c577e7d233ac7748e44a
+
+2015-05-01  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [468120dbdb0791979465ba496465573534cd9ad5]
+
+	Some BIPU text for FH3
+
+	Change-Id: I91713f58ec53e0cd104de9681818710b9b127ec6
+
+2015-05-01  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b8cc4e6035f01d6174b7b3d2ab09a9f910f31f86]
+
+	OOps
+
+	Change-Id: Ibf7f80038f61a14dc91f7e2637dbc4352e3bdf0d
+
+2015-05-01  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [8cd1f24e33e19413b5e63fb0832ca42d850d8330]
+
+	Skip TextEffs (using the size we see in the unique file that we have)
+
+	Change-Id: If9528d04860d6a5165492f968ac051ed1438de02
+
+2015-04-30  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [88db7024fca2c6aef005b8d08a96fba0d1420670]
+
+	Add TextEffs token
+
+	Change-Id: Ib3a8b036929ea24bb29c26f50da242d1f0f901ec
+
+2015-04-30  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [eb8fd81ce5a6477750bb81f63779ed321171b5d7]
+
+	Even more fixes for ImageImport
+
+	Change-Id: Ie83e8c60b37c673465c0d3f188790128ec6a3abf
+
+2015-04-30  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3d6e35084d2af2993448f84618e7ff5bf337c1ff]
+
+	Some readPath and readImageImport fixes
+
+	Change-Id: I249c1b731ef38d084027f18e815b6886441b82b3
+
+2015-04-30  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [33ff8aaa6c674aa9ffdd5fc2d323f3d23c45e97f]
+
+	Some fixes for FH3
+
+	Change-Id: I8a5e9ab8a63fe285f718b1cd201e0cfee325cc9a
+
+2015-04-30  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [aa24073a5edfc703a713b4bbdea667ba8ec41274]
+
+	Some BIPU stroke/fill for v3 and v5
+
+	Change-Id: I260250c1ba8351a9d8be34c3428cacbbb94539e1
+
+2015-04-29  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c32a2028ef1c32e68129beb466f07663ad3a44e9]
+
+	Fix parsing of Xform for older versions and simplify it a bit
+
+	Change-Id: I19e84c42cf24d4a09a85661a1d014854979f17ad
+
+2015-04-29  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c990c0d6b325e472faa4c951774635724c89aefd]
+
+	Some more refactoring of this mess
+
+	Change-Id: Idab145039e351365a8e9d1775c20277e48492697
+
+2015-04-29  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ad8231924933f1fb32ab93a5a3c46024e0977b27]
+
+	trying to get a basic fills in some versions right
+
+	Change-Id: I09de4403c60a40b18068be6dbd5a21edebd8ae3a
+
+2015-04-29  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a5d32b400bafe444301b6959bcec6c8413f48080]
+
+	Fold the graphicStyleId in the corresponding path
+
+	Change-Id: I00625c9040002ddc274d5ce2dd79977312b4f33a
+
+2015-04-29  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [22b588cb6235900e3e204041ba9e844d84e4ca83]
+
+	Add horizontal scaling of text
+
+	Change-Id: I2fd122b625350f4dfbb709fe1b392fc3b075d87c
+
+2015-04-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [932f16a0f63ed228b526fa99cf9f89d34c711dea]
+
+	Collect BasicLine too and give some consistency to the BasicFill
+
+	Change-Id: I1ad4f21d3458d30638f787e079db48b9acec7f60
+
+2015-04-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [838a2bd5843aaffaa212f0c1ec333d0dd60368ff]
+
+	Parsing and collecting all flavours of PropLst
+
+	Change-Id: I41efe48ed4f3a112edf6b9408112c2183ecfe0d9
+
+2015-04-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1332280c9f1389ac457a80acef83b2e810966473]
+
+	Parse and collect ElemPropLst
+
+	Change-Id: I8311f8af445df3f50ab12db638a65be45598a8a8
+
+2015-04-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3cddc528f624a965c82c90badddbb96a36abdb5a]
+
+	Collect names in a reverse map
+
+	Change-Id: I578eb2d85c2fb2b5c5e1d8a1bb69f823b5280a43
+
+2015-04-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a27521d4ef3150e357015c603f2efcad3c350d83]
+
+	Read and collect Color6
+
+	Change-Id: I073d7c6fe02125b79f5d302e9653fca8983123ff
+
+2015-04-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b3bee10c8b71c102056999607f877cdd86ed05b5]
+
+	Read TintColor6
+
+	Change-Id: Ic0be5bc7259584191ff8133f1dfe00ea47420b10
+
+2015-04-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [dccc44d1fff64f070fd9a11f6206afd5354b3459]
+
+	Collect basic fills + add text color output
+
+	Change-Id: I3d98d885a2fe0f4fa61da95502c477de0010901b
+
+2015-04-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [aac6e93493dbc9a0ac4110b1cb1663b0082f9d89]
+
+	Add bold/italic
+
+	Change-Id: Ib64b9dcadc575fad7532e6d52598b190cfb68ec4
+
+2015-04-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c5d31d90f9c9def869fb4d2d316491fbc26f695a]
+
+	Output the (hopefully) right font name name and size
+
+	Change-Id: I08ec218f236ffc12e61bffcdd1ccfefb06bd5731
+
+2015-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3edb2445ae838e5a1f950d3260a6fd17eb627897]
+
+	Apply group transforms to the text too
+
+	Change-Id: Ib1d92de5b75b2d399d07caae1464989b9c69403c
+
+2015-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [dcea20882256b4a9526cc1408bc731f489603bbd]
+
+	Don't output rotation zero
+
+	Change-Id: Ie343cd275f99799d15cef94939fd9b6274737dcb
+
+2015-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5dcb154b43f18fc5ed3684b38d1a826fe20fb89b]
+
+	Adding a .gitignore
+
+	Change-Id: Ic088483ffe4dfe9285c5d64af5f11908d8724fe8
+
+2015-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [cb44359dc708390bf7bb9587bd19ae461db2f03d]
+
+	Adding text convertor
+
+	Change-Id: I61297032f502147b406e12e08c96cf2de8b024f0
+
+2015-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [8c8bdbf06cc4591e433334ee5fad2e58a0d2e2bf]
+
+	Simplify the transformations a bit more
+
+	Change-Id: I2d80605b6c36ee942e0ffcdfa6d634c392fabb11
+
+2015-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [8fbc94999a0739e1a9957659f9a96e5854d2a2f6]
+
+	Trying to decompose the transformation matrix for text objects
+
+	Change-Id: Icbde145b0d43f3fb9d30694ec2ee5ff21be3cfed
+
+2015-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [899d4283f50e072b4117e62784053e92deb67fc0]
+
+	Basic support of text rotation
+
+	Change-Id: I719045aaf36f537e0203123a11bcf758b7495230
+
+2015-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [bebe1e091e50f79ac7de102d9016dd2ee6d8374a]
+
+	BIPU text in FH
+
+	Change-Id: I7df2dd3447958326506e2324b5cbe5ff6c57b1de
+
+2015-04-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [f9f284cac473ba7752eac0b71f5a307a02eb3653]
+
+	Parsing and collecting different text objects
+
+	Change-Id: I11808274a739754e1c569a11bf91a4650ccfdde7
+
+2015-04-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [b5e30ad199b39f9c76d13a68cf7d4d13fd2eead1]
+
+	Small change
+
+	Change-Id: I6cfd2ab38aeab980189292d3f5181df12dd940cd
+
+2015-04-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1a3b6452052bbda935794f6dada4e682eb5a03b0]
+
+	These three have most likely the same structure
+
+	Change-Id: I8d1fdc0f2267607c0ca44957be4c8b988b5ac559
+
+2015-04-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [4a07d0c569061f70ec0498e55a3933c567819b0c]
+
+	Parse TextBlok and collect is
+
+	Change-Id: I4b575033e666ccc77842ee749f1e632221658944
+
+2015-04-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [7d4d52e6ba8c574203984d1f5828929a7d3e15b5]
+
+	Parse and collect paragraph
+
+	Change-Id: Ibe21ab497cc6375b50b0db507251ebc4d7adca44
+
+2015-04-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [51a242f01d5e63f9edad21d35d2feab9ee40d4b8]
+
+	Parse and collect AGDFont record
+
+	Change-Id: I2dae45afd17f62a694c6dbc7b7564580a89bfc15
+
+2015-04-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e75f400bd6a66c67056f9760d372ee09796fe9f0]
+
+	Run doxygen -u on the doxygen.cfg file
+
+	Change-Id: Iaeafc848ab6df4c18608886a9fcce7e73608ac19
+
+2015-04-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [9e1b221f2bb3f49db3040c230fe0d0375a9c2d51]
+
+	Collect TString
+
+	Change-Id: Ie3546a36786355f3779cc7541ef795b968bd11d2
+
+2015-04-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [90c6828a15542587d661e4635cc51291c8c0e774]
+
+	More extraction of logic into functions
+
+	Change-Id: Ib9276e674d860b844756c0447af65f726012f2e3
+
+2015-04-17  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a54e14dcda9323a36a673028cddde94870a14051]
+
+	It looks like the MNames and MStrings are in MacRoman encoding
+
+	Change-Id: I78111de8c4a1424579ec7af6b09c06675ac0dc9c
+
+2015-04-17  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e3bce01d5e65bd6e92cbd135d50834404043bf57]
+
+	Extract some more information from FHTail (fixes files without VMpObj record)
+
+	Change-Id: Icd537e53e8fc630cfc1be67cf30e0f5b3677d8d5
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [0876ac7c8baaf7997da9ac9341277a8daddfdf24]
+
+	Some more FH3 parsing (fishchart.fh3 now parses completely)
+
+	Change-Id: I7decb5a160f215fe298df40d55c68ad19d4744d2
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [479285084fffef236150ad91bceb9199c0a1c75f]
+
+	Don't bail out on FH3 documents too early
+
+	Change-Id: I4d8d2e966e392dfc0a4f8eb4b7d70d3d048b82c0
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a43f79d7a9eceaf1860f1a0ed1cfe5e596333613]
+
+	Try to avoid code duplication and make it a bit more readable
+
+	Change-Id: I9ad029d444c2616eec35a142eaee3c8e8439af56
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d80a25847577603c0873a89429a4c1e223c00193]
+
+	Add handling of composite paths
+
+	Change-Id: I9ee3bc90b925285bb3f2fcb4ed81272c5a333493
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [31e7069ee4c2b3a82835537621010cc7173f8e1a]
+
+	Another theory about how the group xforms work
+
+	Change-Id: Idb9e6a0a3d3df2b6acddae353ef4a377afa51c43
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [19d39d2d2c1e3eea894449fdee56c1155f0795b4]
+
+	Handle groups
+
+	Change-Id: Id658f80bf4c0a5fb3d8a37bc2e2ecdc9061ab09a
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3a0799f10ee2ef21cb8913f2190415c126dbc552]
+
+	Don't rely on "default layer" information. Iterate over visible layers
+
+	Change-Id: I8391f4320bcc6a7b40c1ea2ac3ea006643348717
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c18bfda27a2f2b0717a2d818284342819f5a11ec]
+
+	Extract some logic into _outputLayer function
+
+	Change-Id: I548e94d741eec1e3b57da755e310da40189cfdc8
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ac8b8307e4ed491e7dc3b4e50c90bc54ba5d72bc]
+
+	Fix a warning
+
+	Change-Id: I1437b3637c8ebe31eee0b70cae9ac3b462eb90d4
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [91e4df19cdca6f3d10537ec131a7be3695649e21]
+
+	Unwind the document structure instead of outputting invisible stuff
+
+	Change-Id: Id372fa027e19b143f4e96c39b30e8d6a76956496
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [56769c10ebd54e27bb81ec97fab1fa3b1f25cc4f]
+
+	Collect Block
+
+	Change-Id: I99f9836bf9401430b6b8794bd80f5acce247f684
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [26738e3946592145eca62a8f09bc5130d35740a2]
+
+	Parse and collect layers
+
+	Change-Id: Ic4759c93c74fea70e951149da4cf3610b3aa27bc
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e8723e7a5d5100c9e1525c44ef144b6c5fefafb5]
+
+	Add collectList and actually collect some more stuff
+
+	Change-Id: I59b74491e9662fd4370badae8a05d579552720ce
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [7c40e41eafadeda472200f59fd81e26ea7836912]
+
+	Handle "ProcessColor" token in order to support fishchart.fh5
+
+	Change-Id: If2ce023f7429d3307d0756d8cae518211323c70b
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [20003661ddce0014c8536bdfd3ec806371712ef1]
+
+	In debug mode, warn when more then one Block records are in the file
+
+	Change-Id: I566e193c358e777dc168ea819c329f562b675cf5
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [f313da157a122ed83e584fd3a527b94f53e89395]
+
+	Improve the parser with some additional knowledge from oletoy
+
+	Change-Id: I5de9ba9faca5f353c233ce36c33b670800dfaabd
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [41e19f06af5e00e4ade933200cfe89c2819a9b0f]
+
+	Improve Block parsing and read some relevant information from there
+
+	Change-Id: Id3b49e8466f8d481fd862e7aca6b93521b37f370
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [bd8218b570b5b67f86b4ac0ff8828d4a68e8b2c0]
+
+	Collector for FHTail and Block
+
+	Change-Id: I2b83f69cc9c13141ccccbc81dcdae3ba03230656
+
+2015-04-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e5ff3b5713d9b44837f6da052ad365ac33c62fed]
+
+	Some useful types
+
+	Change-Id: I38edeb5583a2e024bf17822a2dd8c003802b2942
+
+2015-04-15  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5bac482e6336f4d2bef6693df84d8b48dbb67dc1]
+
+	we need only one header from librevenge-streams
+
+	Change-Id: Ic964114526f623fe50219872fbe00cd8dc1bf355
+
+2015-04-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a498bce197195d851b362be79767bebb7b36c777]
+
+	Remove the need of two parsing passes
+
+	Change-Id: I5dd9a074fb65e6688b14a5869dc573e837d303d9
+
+2015-04-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [dec76d0df22ef2f8c1833b9f7464751c001949c1]
+
+	The painter does not need to be kept in the FHCollector class
+
+	Change-Id: Ieb783c4df1d953021267ca26525de26b71963ed6
+
+2015-04-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [6a20cd8b68b58b7c714a3fbc214a025809cef151]
+
+	Collect paths to map and output them later
+
+	Change-Id: I567699f7866ed7bdecaade1a13a59888dbddad80
+
+2015-04-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d9fcc961efcb2b640eaf2c3d769dee6b426eac94]
+
+	Extract _outputPath out of the collection function
+
+	Change-Id: Ifcd394b5667666ce70bc64dbc787df7d9693ed15
+
+2015-04-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [fc51951fa566c36a0dbdbed8f38b5a6da0510587]
+
+	We don't need to link ICU for the while
+
+	Change-Id: I6f228910f73342690f829db58f82296b359c107e
+
+2015-04-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [985194655f1dcab17a2fcc60113049af37c93767]
+
+	Move pieces
+
+	Change-Id: Id1e75000dd9fdc966d4e983a10cbf963c2bcd72d
+
+2015-04-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [8eb7dfcba685209255f14e2ae1fb9ae5bf2930d4]
+
+	Since we have already quite cheaply the utf8 string, use it
+
+	Change-Id: I55a320baae52691bfa61ec23d7f6ae822f52031a
+
+2015-04-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [46449b03b1f85b6ab1f2f1c48592990c55639c64]
+
+	Better debugging output of ustring using icu macros
+
+	Change-Id: I94d2934224267db7e5862586bdead1fc13429c93
+
+2015-02-02  David Tardon  <dtardon@redhat.com>  [ad16d0a4cdfc315ad660f0ba5c13112969e2b4b5]
+
+	remove bashism
+
+	Change-Id: I83bdb1c73bda571182f1f8715f501b547ab4ab24
+
+2014-11-27  David Tardon  <dtardon@redhat.com>  [1a02b145a64e8e626907ea3b67c9c7310ebbfd16]
+
+	avoid access to first element of empty vector
+
+	Change-Id: I20a56d6076b78f9b634651ad4328126bf438e155
+
+2014-11-24  David Tardon  <dtardon@redhat.com>  [27f4bac0ba72a29aa8b6b20bc02441f3d4989b31]
+
+	add compile script to .gitignore
+
+	Change-Id: Ibd9b09b2eed51defc4d0a0aa219048bbe64bcfd4
+
+2014-11-24  David Tardon  <dtardon@redhat.com>  [76d620ac6a39ed969893e375802b375c215709da]
+
+	only export public symbols
+
+
+2014-11-20  David Tardon  <dtardon@redhat.com>  [193772a9cabc70e4bcd5d3c6b2f56da2f0c4a69a]
+
+	deinit z_stream properly if reading from input fails
+
+	Change-Id: Ifb057fbc5b7bc990f59d7938fa9853ce2cd94a31
+
+2014-07-29  David Tardon  <dtardon@redhat.com>  [2d8fea1292271538093042c2f1d76f54c1edd547]
+
+	check arguments
+
+	Change-Id: I9a5a923ac74d1af2c5bb857dd089367b3fac041e
+
+2014-06-16  Michael Stahl  <mstahl@redhat.com>  [3334e08983a46c47726ef555ab0bb062667a50a0]
+
+	libfreehand: avoid some quoting issue with Win32 make
+
+
+2014-05-23  David Tardon  <dtardon@redhat.com>  [61fcdabf335d54c9d15a8d03309cde0e05d4d739]
+
+	prepare for a release
+
+	Change-Id: I10a4e924ca59d05134a8e05e1938da30b107b848
+
+2014-04-16  David Tardon  <dtardon@redhat.com>  [2f0ffe4f8b9b0522db59620f1ce93c6276c1ee70]
+
+	add other used projects to .pc file
+
+	Change-Id: Ia315454cd2e227bd7058aee3394cbc96f038d445
+
+2014-04-16  David Tardon  <dtardon@redhat.com>  [7b9d7f2fa46487ea288343f874e4b11567f07725]
+
+	require librevenge-stream too
+
+	Change-Id: I9114709c7e5496ab4d05f88bbb6b434abfb91150
+
+2014-01-14  David Tardon  <dtardon@redhat.com>  [5fa4d114c075fd88b6eee7df415943bb2e6e3188]
+
+	set git hooks automatically
+
+
+2013-12-22  David Tardon  <dtardon@redhat.com>  [08ae973bae713a5fc5a7c6b511e937d8d23cd037]
+
+	adapt to librevenge change
+
+
+2013-12-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5e9872411d6a4e8f9c995d0443d0755ead64a33e]
+
+	Export only needed stuff on Windows
+
+
+2013-12-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5074dd8d7f1fcee141734872e37e74ebee94a676]
+
+	Re-astyle
+
+
+2013-12-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ba465b4c18f46a505eb7b4e7f10756aba091e4e2]
+
+	Allow equal identing of functions
+
+
+2013-12-03  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a328b1aaee50f970a2d1a8bd41bc50970ad0e1ac]
+
+	Add startDocument and endDocument calls
+
+
+2013-12-02  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c95778c90283d12d62ac9eae5d8d6365d5ba5117]
+
+	Callgraph for libfreehand
+
+
+2013-11-28  David Tardon  <dtardon@redhat.com>  [9103339e49e0edd0b165ea1abde55cb2c295451d]
+
+	add options file for astyle
+
+	Change-Id: Ifa12207d6d3bde25af615b293ca1f18c839a3a2f
+
+2013-11-28  David Tardon  <dtardon@redhat.com>  [e6328581d1626bdd4a30c419e53b0dca450f0404]
+
+	add myself to AUTHORS
+
+
+2013-11-28  David Tardon  <dtardon@redhat.com>  [43c769e8d2af4a5347e876f9038267fe5ef34acd]
+
+	document the current astyle settings
+
+
+2013-11-25  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [21d26fe97af204d4de4ee75ec8b802e66f7b9622]
+
+	astyle -HU -A1 -k3 -y -n -s2 -r \*.cpp \*.h
+
+
+2013-11-23  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3c06ce1bc70ebceeaaff77a39ea5298bbbb6e88e]
+
+	Fold in the gradient
+
+
+2013-11-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e936c2ffc82f428ebd6bc9162d4e79f32dd1502c]
+
+	Fold paths into property lists
+
+
+2013-11-07  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [8ff27ac3db0ac23c3b4e7a447ae03fe54ed05208]
+
+	Remove stray file
+
+
+2013-11-07  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [757216636729abece72bd7fcd40681438575508e]
+
+	Port to librevenge
+
+
+2013-11-01  David Tardon  <dtardon@redhat.com>  [994ba64549079d4b5da16bc4c2733d9c371d53eb]
+
+	coverity: init members
+
+
+2013-11-01  David Tardon  <dtardon@redhat.com>  [0153352b99336335c5d6eb1635ea4b60574fa971]
+
+	coverity: fix memory leak
+
+
+2013-11-01  David Tardon  <dtardon@redhat.com>  [9cb5de03ab85d0f7800954fce231b1fd253a63d4]
+
+	add support for git-review
+
+
+2013-10-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [0bc4a498e03e4fdbcb04d8ac2083c9e0fdfdbcab]
+
+	Some more things that don't matter
+
+
+2013-10-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [4d8fbbf5db7f921022675adc1d509ae230c6272f]
+
+	Stub parseDocument which will parse the document in a non-linear way
+
+
+2013-10-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [f8d29bc74ca05f364f38487f8dc044b9ef5e5c54]
+
+	Rename and simplify some stuff
+
+
+2013-10-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [dcbfd22e84231cb75d994e7d4da0b400ee80c60d]
+
+	Collect offsets only once
+
+
+2013-10-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [8d9c44c2634b7938025a127a53ccc826fd6e33af]
+
+	Remove need of full two passes
+
+
+2013-10-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [9f0854c03ea6b500c9d426bfefd95608ed394607]
+
+	Some more refactoring
+
+
+2013-10-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e6087618936108e0b495e1d5c3e7179453543904]
+
+	Some little refactoring
+
+
+2013-10-19  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [8942c3589054b12d6223d503c36773419be8bdfd]
+
+	C++ ain't Python :P
+
+
+2013-10-19  Valek Filippov  <frob@df.ru>  [d7b9aee4e132d890bc94eedf473fd52135c8c913]
+
+	Fix read for ImageImport, TaperedFill, TaperedFillX
+
+
+2013-10-19  David Tardon  <dtardon@redhat.com>  [6e27b05f7ac50f6b4d538cb3c14c738d3aae9848]
+
+	init members
+
+
+2013-10-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a1c7691fc0185e2fb49bb34e0579d1f4c2c697ba]
+
+	Handle documents with several "pages"
+
+
+2013-10-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ff0cf65f11630c3f2279ec547f07facbbe0319cc]
+
+	Don't crash on null collector
+
+
+2013-10-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a16194b88fa478039b0b34941792d32ea215d0cd]
+
+	Keep information about FHTail offset
+
+
+2013-10-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [755c6213f5509e92eef3ecefeebe08c7340a8e97]
+
+	Keep offsets for different records within the file + FHTail reader function
+
+
+2013-10-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [2b85aa61b03a8adcc50c5e59cb25e94ab4cdec74]
+
+	Fix ImageImport for version >8
+
+
+2013-10-16  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3ca9c8706a1931999231587febdd469ebb8b2db1]
+
+	Small fixes for version 5 and 7
+
+
+2013-10-15  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [6f2464d182e17f1aea80a505618e49eb94718720]
+
+	PolygonFigure
+
+
+2013-10-15  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3aa9e9821b78b67a7afb6e4a3032766e5a41f58b]
+
+	Rectangles and Ovales
+
+
+2013-10-15  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d70de881d21a3fb516c838e0d7dd4472e5b2fec2]
+
+	enable werror by default again
+
+
+2013-10-15  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3196a4df8789a478bc5cd4d0cef74b0d7ea453cf]
+
+	Use the FHPath class for the path reading and processing
+
+
+2013-10-15  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [67e13ce3e400092a0586d092de0dde70026ed1f7]
+
+	Add FHPath class
+
+
+2013-10-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [6f6f7459e1da577fb5a5d0209186eee13781e501]
+
+	Remove some warnings
+
+
+2013-10-14  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d80b73abf12910e1d0f871ad1eb76c79cb4142f6]
+
+	Some else branches
+
+
+2013-10-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [4ed82f993a80ac07316dc27874c380975a0b814d]
+
+	Correct Page Start X/Y
+
+
+2013-10-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [2fe8bfe2f9ffffa608584232c2f8953e9d64f968]
+
+	Unused include
+
+
+2013-10-13  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5559342cd5e3babc7df8a06b2e125e924d5ab7bc]
+
+	fh2xhtm->fh2svg + read page width/height/offsetX/offsetY
+
+
+2013-10-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a33cb389154b8a76ee31751793de09f75b143f97]
+
+	Clone a part of FHTransform from libcdr
+
+
+2013-10-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [6a7cb44730e66542cef5e7f636ce0e60a470c2be]
+
+	Don't fail make install if docs are not built
+
+
+2013-10-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [761513e8bf3e167cd287cbddc5c87c8aad1621b9]
+
+	Set infrastructure for 2 passes
+
+
+2013-10-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ea6b54bfb588eef7e407b9d3aab4ec0c72b1e839]
+
+	collector stub for rectangle
+
+
+2013-10-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [44899fb5044cfb494e75ddc47ce0be3a63c4ad6e]
+
+	Parse and pass on the oval
+
+
+2013-10-11  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [38fd94e9d886106e9f203f149df5d49f36f43d54]
+
+	Parsing xform
+
+
+2013-10-10  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [70cad391b42a71a9ad5f3021cde7db6509ed0cfa]
+
+	Consider the closed/evenOdd flag
+
+
+2013-10-10  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [7607eb26b7ad12d113243c5c7852ae8f0c135e7b]
+
+	No static tools option
+
+
+2013-10-10  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e61099d4805ab0b5d67aa5b10c0f08b96f422735]
+
+	Trying to skip what skipped can be
+
+
+2013-10-09  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [6c9781b9df70513c149aeed48382ed07fc550581]
+
+	Some more work on the parser
+
+
+2013-10-09  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ad6615d348106606d5e81a2a1cb4928648194d72]
+
+	Fix tokenid generation
+
+
+2013-10-08  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [2a856793a591444ec1083dcf7610645f9d4c9f12]
+
+	Try to guard the path reading by try...catch blocks
+
+
+2013-10-08  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1658cbc6ca7db93f50b1c7aa512389d9ed076ad3]
+
+	First wireframes
+
+
+2013-10-07  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [4c78a7c9de281481f71f2a5c215d7455a1a52e4f]
+
+	Remove warning
+
+
+2013-10-07  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [e8e386d8259cc1c3b647dce16519576dc4361ec2]
+
+	Function to read coordinates
+
+
+2013-10-07  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [987970b3a25dbacd2b14b20050330c91a5de6ef6]
+
+	Starting to try to extract some shapes from freehand
+
+
+2013-05-10  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [7bd16b3678599463d49adabc032f7e7b66f2a85c]
+
+	Making Michael Stahl happy (even in libfreehand)
+
+
+2013-05-02  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [f4c51375ead46fac730eb93404d3796a6361543e]
+
+	libwpd already does this conversion, so don't dupplicate
+
+
+2013-04-26  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d72db34412c5a52cd2067feaf7bf0a97c910c998]
+
+	Make this Fridrich-less
+
+
+2013-04-26  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [234d8116129ebced92cf0a778dac07846981a2c3]
+
+	skip correctly records of lizard.FH10
+
+
+2013-04-26  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [58bd1ff1ac50d5f4f65645945bb840f9eb0ef0cb]
+
+	Two more reader functions
+
+
+2013-04-26  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [87a71376758abf25e37fb735fdffe0f0a5e37b05]
+
+	Fix readVMpObj and readAGDFont
+
+
+2013-04-26  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [855465fea1a3c4fd38f465237671cffa2430ca88]
+
+	Token ID 0 is special in the way the hash handles it
+
+
+2013-04-26  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [780c55925e7d6fc03fa1567b89bbe0a816461389]
+
+	Work in progress on the parsers
+
+
+2013-04-25  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d73d198bdffa62f3d4ff15d7d9cf0c1bea66d1cb]
+
+	Starting slowly with functions skipping the right amount of data
+
+
+2013-04-25  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [39c64ae8c06238c6b93d5b767a1109ddab66683c]
+
+	ignore ar-lib
+
+
+2013-04-25  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [a1f805fc9e76f9a57f11fcfcec6eeeaf33883173]
+
+	Some sane defaults for the build
+
+
+2013-04-25  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [6a40dbec106c926bf4c66b6cedf748d45a60c724]
+
+	Some more verbosity in debug mode
+
+
+2013-04-25  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c2073286e2201e874cb390ceae21db4770c054ec]
+
+	Better to know which number of record we are parsing
+
+
+2013-04-25  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ec68e16f108b0838d18181c376ec3af6f1f869f7]
+
+	Simplifying the licensing a tad for this new library
+
+
+2013-04-24  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d81b939ebb34961106c987b0f68e6ed197bb7374]
+
+	Stub the data parsing some more
+
+
+2013-04-24  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3f7bde88d07157f7921c308dead402888540e66c]
+
+	Allow overriding of gperf detection by user
+
+
+2013-04-23  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [d6197943e8ac36b5b43a577a9660adaf9474477c]
+
+	ignore generated files
+
+
+2013-04-23  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5523b41472113e851a1a6691643c7ab343fe67b2]
+
+	Store the dictionary entries as integers
+
+
+2013-04-22  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [1191e29a85013750d555e0ef8dc9eba7566356d4]
+
+	oops
+
+
+2013-04-22  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [c46951fb273b28e1a46987cd660408ceb6455b32]
+
+	Stub data reader functions
+
+
+2013-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [5a805c74e9c82ddb3276e868c03d950cfe43db85]
+
+	Forgot to git add these ones
+
+
+2013-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [7a303e12f755a4419ee96e025659de9560772807]
+
+	inflate data stream and stub its parsing
+
+
+2013-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [44c55b9feb1a1a4c1ad6596c7618b5d2c33d17b7]
+
+	Detect a Freehand document and start to parse it
+
+
+2013-04-21  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [41462611457839cd4e6d07366432cb1a2e1d1b53]
+
+	Whitespace change
+
+
+2013-04-20  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [9cef5f4e7f4b60ca8e4b6511b13b3ec9fe138c94]
+
+	Some build fixes
+
+
+2013-01-18  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [32abf45c3d04d7a86a810e0362e0d3d77febffdf]
+
+	Fix build with newer autotools
+
+
+2012-10-06  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [ebfeec71304580f7e19023a89fa9e4401b1253aa]
+
+	Version correction in msvc files
+
+
+2012-08-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [081799dce92759abee6d38196bb6f836ea9a9e1b]
+
+	remove files that nobody uses anymore
+
+
+2012-08-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [560ba9162e9c0e71fbe42be000588d96093781f7]
+
+	Initial content of libfreehand
+
+
+2012-08-28  Fridrich Štrba  <fridrich.strba@bluewin.ch>  [3585e292a31c674ff055178fb7449d1992d6c932]
+
+	initial libfreehand repository
+
