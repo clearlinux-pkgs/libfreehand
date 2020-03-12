@@ -4,7 +4,7 @@
 #
 Name     : libfreehand
 Version  : 0.1.2
-Release  : 3
+Release  : 4
 URL      : https://dev-www.libreoffice.org/src/libfreehand-0.1.2.tar.xz
 Source0  : https://dev-www.libreoffice.org/src/libfreehand-0.1.2.tar.xz
 Summary  : Library for parsing the FreeHand file format structure
