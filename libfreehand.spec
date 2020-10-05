@@ -4,7 +4,7 @@
 #
 Name     : libfreehand
 Version  : 0.1.2
-Release  : 5
+Release  : 6
 URL      : https://dev-www.libreoffice.org/src/libfreehand-0.1.2.tar.xz
 Source0  : https://dev-www.libreoffice.org/src/libfreehand-0.1.2.tar.xz
 Summary  : Library for parsing the FreeHand file format structure
@@ -23,6 +23,7 @@ BuildRequires : pkgconfig(librevenge-0.0)
 BuildRequires : pkgconfig(librevenge-stream-0.0)
 BuildRequires : pkgconfig(zlib)
 BuildRequires : sed
+Patch1: fix-build.patch
 
 %description
 
@@ -76,13 +77,14 @@ license components for the libfreehand package.
 %prep
 %setup -q -n libfreehand-0.1.2
 cd %{_builddir}/libfreehand-0.1.2
+%patch1 -p1
 
 %build
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1592623699
+export SOURCE_DATE_EPOCH=1601862750
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
@@ -99,10 +101,10 @@ export LANG=C.UTF-8
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
-make VERBOSE=1 V=1 %{?_smp_mflags} check
+make %{?_smp_mflags} check
 
 %install
-export SOURCE_DATE_EPOCH=1592623699
+export SOURCE_DATE_EPOCH=1601862750
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/libfreehand
 cp %{_builddir}/libfreehand-0.1.2/COPYING %{buildroot}/usr/share/package-licenses/libfreehand/9744cedce099f727b327cd9913a1fdc58a7f5599
